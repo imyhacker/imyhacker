@@ -29,15 +29,15 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
-    <a href="https://www.linkedin.com/in/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://https://twitter.com/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://all-onetech.xyz" target="blank"><img src="https://img.shields.io/badge/Website-https://all-onetech.xyz-green?" /></a>
+    <a href="https://www.linkedin.com/in/arii-farhan-345a74182" target="blank"><img src="https://img.shields.io/badge/arii-farhan-345a74182?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@niisan_95023" target="blank"><img src="https://img.shields.io/badge/Nii-sanHax0r-30302f?style=flat&logo=medium" /></a>
+    
+    <a href="https://www.paypal.me/arikungans" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imyhacker/imyhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
