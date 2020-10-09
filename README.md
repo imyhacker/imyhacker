@@ -32,7 +32,6 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
     <a href="https://all-onetech.xyz" target="blank"><img src="https://img.shields.io/badge/Website-https://all-onetech.xyz-green?" /></a>
     <a href="https://www.linkedin.com/in/arii-farhan-345a74182" target="blank"><img src="https://img.shields.io/badge/arii-farhan-345a74182?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@niisan_95023" target="blank"><img src="https://img.shields.io/badge/Nii-sanHax0r-30302f?style=flat&logo=medium" /></a>
-    
     <a href="https://www.paypal.me/arikungans" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
