@@ -5,7 +5,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 <p>
     <img src="https://img.shields.io/badge/OS-linux-blue?&logo=linux" />
     <img src="https://img.shields.io/badge/Code-php-blue?&logo=php" />
-    <img src="https://img.shields.io/badge/Code-laravel-blue?&logo=laravel" />
+    <img src="https://img.shields.io/badge/Framework-laravel-blue?&logo=laravel" />
     <img src="https://img.shields.io/badge/Text%20Editor-Sublime%20text-blue?&logo=sublime%20text&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/imyhacker" />
 </p>
@@ -30,7 +30,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 ### Let's connect!
 <p>
     <a href="https://arifarhan16.github.io" target="blank"><img src="https://img.shields.io/badge/Website-https://arifarhan16.github.io-green?" /></a>    <a href="https://www.linkedin.com/in/arii-farhan-345a74182" target="blank"><img src="https://img.shields.io/badge/arii-farhan-345a74182?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@niisan_95023" target="blank"><img src="https://img.shields.io/badge/Nii-sanHax0r-30302f?style=flat&logo=medium" /></a>
+    <a href="https://medium.com/@ariikun" target="blank"><img src="https://img.shields.io/badge/Nii-sanHax0r-30302f?style=flat&logo=medium" /></a>
     <a href="https://www.paypal.me/arikungans" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
