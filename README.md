@@ -1,13 +1,24 @@
 # Hi there 👋 , I'm Arikun!
-Currently I am open to any opportunity especially in IT as a Web Developer. 
+Currently I am open to any opportunity especially in IT as a Junior Web Developer. 
 
-### Tools:
+### Coding :
 <p>
     <img src="https://img.shields.io/badge/OS-linux-blue?&logo=linux" />
     <img src="https://img.shields.io/badge/Code-php-blue?&logo=php" />
+<img src="https://img.shields.io/badge/Code-html-blue?&logo=html5" />
+<img src="https://img.shields.io/badge/Code-javascript-blue?&logo=javascript" />
+<img src="https://img.shields.io/badge/Code-json-blue?&logo=json" />
+<img src="https://img.shields.io/badge/Framework-bootstrap-blue?&logo=bootstrap" />
     <img src="https://img.shields.io/badge/Framework-laravel-blue?&logo=laravel" />
     <img src="https://img.shields.io/badge/Text%20Editor-Sublime%20text-blue?&logo=sublime%20text&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/imyhacker" />
+</p>
+
+### Networking :
+<p>
+<img src="https://img.shields.io/badge/Cisco-black?&logo=cisco" />
+
+
 </p>
 
 ### Stats:
