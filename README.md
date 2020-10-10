@@ -16,8 +16,9 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 
 ### Networking :
 <p>
-<img src="https://img.shields.io/badge/Cisco-black?&logo=cisco" />
-
+<img src="https://img.shields.io/badge/Platform-Cisco-black?&logo=cisco" />
+<img src="https://img.shields.io/badge/Platform-MikroTik-black?&logo=icloud" />
+<img src="https://img.shields.io/badge/Tool-Wireshark-black?&logo=icloud" />
 
 </p>
 
