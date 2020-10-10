@@ -16,10 +16,13 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 
 ### Networking :
 <p>
-<img src="https://img.shields.io/badge/Platform-Cisco-black?&logo=cisco" />
-<img src="https://img.shields.io/badge/Platform-MikroTik-black?&logo=icloud" />
-<img src="https://img.shields.io/badge/Tool-Wireshark-black?&logo=icloud" />
-
+<img src="https://img.shields.io/badge/Platform-Cisco-blue?&logo=cisco" />
+<img src="https://img.shields.io/badge/Platform-MikroTik-blue?&logo=icloud" />
+<img src="https://img.shields.io/badge/Tool-Wireshark-blue?&logo=icloud" />
+<img src="https://img.shields.io/badge/Tool-WinBox-blue?&logo=icloud" />
+<img src="https://img.shields.io/badge/Tool-Bettercap-blue?&logo=icloud" />
+<img src="https://img.shields.io/badge/Tool-Ettercap-blue?&logo=icloud" />
+<img src="https://img.shields.io/badge/Tool-Airmon.ng-blue?&logo=icloud" />
 </p>
 
 ### Stats:
@@ -42,7 +45,7 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 ### Let's connect!
 <p>
     <a href="https://arifarhan16.github.io" target="blank"><img src="https://img.shields.io/badge/Website-https://arifarhan16.github.io-green?" /></a>    <a href="https://www.linkedin.com/in/arii-farhan-345a74182" target="blank"><img src="https://img.shields.io/badge/arii-farhan-345a74182?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@ariikun" target="blank"><img src="https://img.shields.io/badge/Nii-sanHax0r-30302f?style=flat&logo=medium" /></a>
+    <a href="https://medium.com/@ariikun" target="blank"><img src="https://img.shields.io/badge/Arii-kun-30302f?style=flat&logo=medium" /></a>
     <a href="https://www.paypal.me/arikungans" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
