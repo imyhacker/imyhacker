@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Arikun!
-Currently I am open to any opportunity especially in IT as a Junior Web Developer. 
+Currently I am open to any opportunity especially in IT as a Junior Web Developer And Network Engineer. 
 
 ### Coding :
 <p>
