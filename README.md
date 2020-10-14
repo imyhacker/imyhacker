@@ -33,7 +33,6 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
     - 🌱 I’m currently learning Laravel </br>
     - 🤔 I’m looking for help with My Team (INDOSEC) </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:arifarhan1602@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: Be Yourself and Never Surrender </br>
 </details>
@@ -44,7 +43,7 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 
 ### Let's connect!
 <p>
-    <a href="https://arifarhan16.github.io" target="blank"><img src="https://img.shields.io/badge/Website-https://arifarhan16.github.io-green?" /></a>    <a href="https://www.linkedin.com/in/arii-farhan-345a74182" target="blank"><img src="https://img.shields.io/badge/arii-farhan-345a74182?style=flat&logo=linkedin" /></a>
+    
     <a href="https://medium.com/@ariikun" target="blank"><img src="https://img.shields.io/badge/Arii-kun-30302f?style=flat&logo=medium" /></a>
     <a href="https://www.paypal.me/arikungans" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
