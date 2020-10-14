@@ -43,7 +43,6 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 
 ### Let's connect!
 <p>
-    
     <a href="https://medium.com/@ariikun" target="blank"><img src="https://img.shields.io/badge/Arii-kun-30302f?style=flat&logo=medium" /></a>
     <a href="https://www.paypal.me/arikungans" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
