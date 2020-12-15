@@ -38,7 +38,9 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=imyhacker&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyhacker&layout=compact" height=180 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyhacker&theme=green&hide_langs_below=1" />
+
+
 </p>
 
 ### Let's connect!
