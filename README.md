@@ -37,8 +37,7 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
     - ⚡ Fun fact: Be Yourself and Never Surrender </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=imyhacker&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyhacker&theme=green&hide_langs_below=1" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imyhacker&show_icons=true&theme=radical" />
 
 
 </p>
