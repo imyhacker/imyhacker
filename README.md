@@ -39,11 +39,7 @@ Currently I am open to any opportunity especially in IT as a Junior Web Develope
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyhacker&layout=compact" />
 </p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=imyhacker&repo=HiDOM&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />    
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=imyhacker&repo=DOTOIP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />    
-    
-</p>
+
 
 ### Let's connect!
 <p>
