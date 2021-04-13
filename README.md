@@ -13,8 +13,8 @@ Welcome to my Github page! I am Ari I am from Indonesia and I am currently Learn
 - SMK Telematika Indramayu  
 - IT Support at SMK Telematika Indramayu
 - Web Developer, IT Networking, Ethical Hacking
-- Blogger in <a href="https://suteki.my.id">Suteki.my.id</a> 
-- Member @IndoSec.id
+- Blogger in <a href="https://suteki.my.id" target="_blank">Suteki.my.id</a> 
+- Member <a href="https://github.com/indosec-id" target="_blank">@IndoSec.id</a>
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
