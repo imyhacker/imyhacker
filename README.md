@@ -3,6 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/imyhacker)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arifarhan1602a@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arkun666/)
 
 Welcome to my Github page! I am Ari I am from Indonesia and I am currently Learn Programming And Mathematics Basic!  
 
