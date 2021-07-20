@@ -41,3 +41,10 @@ Welcome to my Github page! I am Ari I am from Indonesia and I am currently Learn
 </p>
 
 <sub>Buy Me Coffee ! : <a href="https://trakteer.id/arkun666" target="_blank"> Buy Me Coffee ! XD </a></sub>
+<br /> <br />
+### Mini Achievement 
+<p>
+    <a href="https://github.com/imyhacker">
+        <img src="https://github-profile-trophy.vercel.app/?username=imyhacker&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Arikun1337 :: Tropy Stats" />
+    </a>
+</p>
