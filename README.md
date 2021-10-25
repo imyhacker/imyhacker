@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ariikun</h1>
-<h3 align="center">Extra Ordinary People</h3>
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Ari%20Farhan&description=Make%20Awesome%20With%20Code&image=https://avatars.githubusercontent.com/u/45889833?s=400&u=cbc3f3aff594fd1a9e2987be4cd7d8c446859363&v=4&backgroundColor=%FFFFFFFFFF&instagram=arkun666&linkedin=arii-farhan-345a74182&github=imyhacker&twitter=riihaxor_&pattern=topography&colorPattern=%2347597E&fontColor=%black&iconColor=%black&opacity=0.3)
-
+![My card name](https://cardivo.vercel.app/api?name=Ari%20Farhan&description=Make%20Awesome%20With%20Code%20%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/45889833?s=400&u=cbc3f3aff594fd1a9e2987be4cd7d8c446859363&v=4&backgroundColor=%FFFFFFFFFF&instagram=arkun666&linkedin=arii-farhan-345a74182&github=imyhacker&twitter=riihaxor_&pattern=topography&colorPattern=%2347597E&fontColor=%black&iconColor=%black&opacity=0.3)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyhacker&label=Profile%20views&color=0e75b6&style=flat" alt="imyhacker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyhacker" alt="imyhacker" /></a> </p>
