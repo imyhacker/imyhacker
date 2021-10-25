@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyhacker" alt="imyhacker" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@riihaxor_" target="blank"><img src="https://img.shields.io/twitter/follow/@riihaxor_?logo=twitter&style=for-the-badge" alt="@riihaxor_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/riihaxor_" target="blank"><img src="https://img.shields.io/twitter/follow/riihaxor_?logo=twitter&style=for-the-badge" alt="@riihaxor_" /></a> </p>
 
 - 🔭 I’m currently working on [SMK Telematika Indramayu](www.smktelematikaindramayu.sch.id)
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@riihaxor_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@riihaxor_" height="30" width="40" /></a>
+<a href="https://twitter.com/riihaxor_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@riihaxor_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arii-farhan-345a74182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arii-farhan-345a74182" height="30" width="40" /></a>
 <a href="https://fb.com/@uhuy.kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@uhuy.kun" height="30" width="40" /></a>
 <a href="https://instagram.com/@arkun666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arkun666" height="30" width="40" /></a>
