@@ -39,7 +39,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Activity  
 
-- 🔭 I’m currently working on [SMK Telematika Indramayu](https://smkti.id)  
+- 🔭 I’m currently working on [NOC AQT Network](https://aqtnetwork.my.id)  
   
 
 - 🌱 I’m currently learning Laravel. ReactJS, and MikroTik RouterOS  
